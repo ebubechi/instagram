@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "128029087312",
+    "project_id": "instagram-uzo",
+    "storage_bucket": "instagram-uzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128029087312:android:8d95d4994637d58ca82355",
+        "android_client_info": {
+          "package_name": "com.bersyte.quote_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128029087312-mtg526dfko7drqk4kk9lgvdinpql599u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFu6yqCPBEeHTnttaoiPJYMHw-I5MK4e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128029087312-8n8jej85d39c3bgukmv1p0pq1capfgre.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128029087312-993iqbe8kbiulh0uuqaua6b4tvl85nff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bersyte.quoteGenerator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128029087312:android:ed26ed460efa2913a82355",
+        "android_client_info": {
+          "package_name": "se.uzoebubes.instagramz_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128029087312-ekcq7i0gquojva4e8v3mfeeps06n73rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.uzoebubes.instagramz_clone",
+            "certificate_hash": "087c08ff4461fed1b095844ffbb8552da7900b50"
+          }
+        },
+        {
+          "client_id": "128029087312-mtg526dfko7drqk4kk9lgvdinpql599u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFu6yqCPBEeHTnttaoiPJYMHw-I5MK4e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128029087312-8n8jej85d39c3bgukmv1p0pq1capfgre.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128029087312-993iqbe8kbiulh0uuqaua6b4tvl85nff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bersyte.quoteGenerator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
