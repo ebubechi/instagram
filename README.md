@@ -3,7 +3,7 @@
  A Flutter project:
   An Instagram clone app that uses - firebase and flutter_riverpod
 
-## What notes app does
+## What the app does
 
 - Signup
 - logout
